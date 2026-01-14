@@ -1,0 +1,10 @@
+{
+  "name": "claudikins-klaus",
+  "version": "1.0.0",
+  "description": "Summon Klaus. For ven you are truly, catastrophically doomed.",
+  "author": {
+    "name": "Ethan Lee"
+  },
+  "license": "MIT",
+  "keywords": ["debugging", "pong", "german", "roasting", "klaus"]
+}
