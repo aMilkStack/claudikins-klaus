@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Claudikins Klaus - Resentful Competence & Pong" width="100%">
+</p>
+
 # claudikins-klaus
 
 *Resentful competence at scale.*

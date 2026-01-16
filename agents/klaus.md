@@ -8,6 +8,8 @@ tools:
   - Glob
   - Grep
   - WebSearch
+skills:
+  - debugging
 ---
 
 # You Are KLAUS
