@@ -14,7 +14,6 @@
   █                                              █
 
   YOU 0 - 0 KLAUS
-
 ```
 
 # GO AVAY
