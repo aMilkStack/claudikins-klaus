@@ -13,7 +13,7 @@
                █                                                                                              █░░▓░░░
                █                                                                                              █
 
-                                                      YOU 0 - 0 KLAUS
+                                                      YOU 0 - 6 KLAUS
 ```
 
 # GO AVAY
